@@ -60,6 +60,7 @@ Do the following to complete this assignment and acheive a base grade of 85%:
 5. Ensure that your project has the proper naming scheme `a2-yourGithubUsername` so we can find it.
 6. Modify the README to the specifications below, and delete all of the instructions originally found in this README.
 7. Create and submit a Pull Request to the original repo. Label the pull request as follows: a2-gitusername-firstname-lastname
+8. DOESN'T WORK IN FIREFOX!
 
 Acheivements
 ---
